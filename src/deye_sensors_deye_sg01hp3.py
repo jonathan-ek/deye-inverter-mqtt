@@ -1062,6 +1062,7 @@ deye_sg01hp3_sensors = [
     deye_sg01hp3_inverter_635,
     deye_sg01hp3_inverter_540,
     deye_sg01hp3_inverter_541,
+    deye_sg01hp3_grid_charge_128,
     deye_sg01hp3_time_of_use_146,
     deye_sg01hp3_time_of_use_148,
     deye_sg01hp3_time_of_use_149,
