@@ -116,6 +116,8 @@ METRIC_GROUPS = \
 	deye_sg01hp3_battery \
 	deye_sg01hp3_ups \
 	deye_sg01hp3_bms \
+	deye_sg01hp3_timeofuse \
+	deye_sg01hp3_gridcharge \
 	aggregated
 GENERATE_DOCS_TARGETS = $(addprefix generate-docs-, $(METRIC_GROUPS))
 $(GENERATE_DOCS_TARGETS): generate-docs-%:
